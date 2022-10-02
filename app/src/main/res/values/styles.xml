@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="main_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:background">#A4A58D</item>
+        <item name="android:fontFamily">@font/archivo_black</item>
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style>
+</resources>

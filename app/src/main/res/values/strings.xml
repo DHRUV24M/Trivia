@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_text">TRIVIA</string>
+    <string name="question_text">QUESTION : 0/100 </string>
+    <string name="trueButton">true</string>
+    <string name="falseButton">false</string>
+    <string name="nextButton">next</string>
+    <string name="question_placeholder">"HELLO ! , Question will shown here when fetched from the api "</string>
+    <string name="correct_answer">correct !!</string>
+    <string name="wrong_answer">wrong $!@$234</string>
+</resources>
